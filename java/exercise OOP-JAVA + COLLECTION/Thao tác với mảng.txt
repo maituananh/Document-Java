@@ -1,0 +1,7 @@
+﻿đề: Nhập vào mảng n số nguyên, với n nhập từ bàn phím, sau đó in ra màn hình
+yêu cầu: 
+	1: tính tổng các phần tử dương trong mảng và in ra màn hình
+	2: tính trung bình cộng các phần tử chia hết cho 5 và in ra kết quả
+	3: sắp xếp các phần tử theo chiều tăng dần và in ra kết quả màn hình
+	4: đếm số lần xuất hiện của phần tử c xuất hiện trong dẫy và đưa ra các vị trí xuất hiện trong mảng 
+  		(c nhập từ bàn phím)
